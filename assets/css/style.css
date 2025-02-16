@@ -17,7 +17,7 @@ body {
 .netw h1 {
     font-size: 45px;
     margin: 0;
-    padding: 10px;  
+    padding: 10px;
     font-weight: lighter;
 }
 
@@ -109,7 +109,8 @@ button:hover {
     margin-left: 50px;
 }
 
-.Contacto p, h3 {
+.Contacto p,
+h3 {
     margin: 0;
     font-weight: lighter;
 }
